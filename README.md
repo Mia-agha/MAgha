@@ -1,6 +1,6 @@
 #  Hi, I'm Mia-Nwi Agha!
 I'm currently in my 1st year at wright state university for a degree in Computer Science Major
-know basic python and learning Java coding
+*know basic python and learning Java coding
 
 
 # Projects:
